@@ -1,5 +1,3 @@
-# R-seau
-
 ## Qu'est-ce qu'un VPN ?
 Un VPN, ou Réseau Privé Virtuel, est un service qui établit une connexion sécurisée et chiffrée entre votre appareil (ordinateur, smartphone, tablette, etc.) et un serveur distant appartenant à un fournisseur VPN. Ce tunnel virtuel permet de cacher votre adresse IP et votre localisation réelles, en les remplaçant par celles du serveur VPN.
 
